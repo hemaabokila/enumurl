@@ -9,10 +9,10 @@
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+- [Usage](#The required libraries)
+- [Contributing](#Example)
+- [License](#Example Output)
+- [Acknowledgments](#Author)
 
 ## Features
 
@@ -39,7 +39,7 @@ pip install -r requirements.txt
 - `requests`
 - `beautifulsoup4`
 - `colorama`
-## How to Use
+## installation
 - **1.Clone the repository**:
 ```
 git clone https://github.com/hemaabokila/enumurl.git
