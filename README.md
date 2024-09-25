@@ -9,10 +9,8 @@
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#The required libraries)
-- [Contributing](#Example)
-- [License](#Example Output)
-- [Acknowledgments](#Author)
+- [Example](#Example)
+- [Author](#Author)
 
 ## Features
 
