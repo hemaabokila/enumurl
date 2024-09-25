@@ -2,6 +2,8 @@
 
 **enumurl** is a lightweight internal link scanner designed to crawl and analyze a specified website. Utilizing Python libraries such as `requests` and `BeautifulSoup`, this tool efficiently fetches web pages and extracts internal links.
 
+> ![Screenshot_2024-09-25_10-32-49](https://github.com/user-attachments/assets/672b1723-a6c5-4ca3-a6dd-aa4e2cba66c8)
+
 ## Table of Contents
 
 - [Features](#features)
@@ -54,6 +56,9 @@ enumurl -t <url>
 
 ## Example:
 - **To scan a target machine (https://www.google.com)**:
+
+> ![Screenshot_2024-09-25_10-34-11](https://github.com/user-attachments/assets/8390a947-a6d6-4d47-a6e7-9d16acbfcfef)
+
 ```
 enumurl -u https://www.google.com
 ```
