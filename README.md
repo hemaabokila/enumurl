@@ -1,4 +1,7 @@
 # enumurl
+[![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
 
 **enumurl** is a lightweight internal link scanner designed to crawl and analyze a specified website. Utilizing Python libraries such as `requests` and `BeautifulSoup`, this tool efficiently fetches web pages and extracts internal links.
 
@@ -60,6 +63,8 @@ https://www.google.com/imghp?hl=ar&tab=wi
 https://www.google.com/intl/ar/about.html
 https://www.google.com/setprefs?sig=0_1TpgmDOTv8yu9tsxuUH9ZtM_WnQ%3D&hl=en&
 ```
+## License
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ## Author
 - **Developed by Ibrahem abo kila**
